@@ -2,4 +2,4 @@
 this is a work in progress
 also trying to customize my site so just open an issue for a suggestion with a
 title of SUGGESTION:"whatever here"
-Lato is actually added to my site just make sure you have Lato as a font in your chrome://settings
+Lato doesnt actually show just add it as a font.
